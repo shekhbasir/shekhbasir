@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shekhbasir&label=Profile%20views&color=0e75b6&style=flat" alt="shekhbasir" /> </p>
+<p align="left"> <img src="https://media.tenor.com/cKgOapMuyWcAAAAM/coding-developer-code.gif" width="200" height="100" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shekhbasir" alt="shekhbasir" /></a> </p>
 
