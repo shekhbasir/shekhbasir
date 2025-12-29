@@ -4,7 +4,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/1*gReLR6hZjwyBxHmfLN1AVw.gif">
 
 
-<p align="left"> <img src="https://media.tenor.com/cKgOapMuyWcAAAAM/coding-developer-code.gif" width="350" height="100" /> </p>
+<p align="left"> <img src="https://media.tenor.com/cKgOapMuyWcAAAAM/coding-developer-code.gif" width="300" height="100" /> </p>
 
 
 
