@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://media.tenor.com/cKgOapMuyWcAAAAM/coding-developer-code.gif" width="200" height="100" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shekhbasir" alt="shekhbasir" /></a> </p>
+
 
 - 🌱 I’m currently learning **Advanced -> System Design|Agentic AI Architectures|LLM orchestration & AI pipelines|with Devops|CICD**
 
