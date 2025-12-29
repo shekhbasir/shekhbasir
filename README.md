@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sheikh Basir</h1>
 <h3 align="center">🚀 A Passionate MERN Stack Developer & AI Enthusiast from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/1*gReLR6hZjwyBxHmfLN1AVw.gif">
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/1*gReLR6hZjwyBxHmfLN1AVw.gif" style="border-radius:10">
 
 
 <p align="left"> <img src="https://media.tenor.com/cKgOapMuyWcAAAAM/coding-developer-code.gif" width="300" height="100" /> </p>
